@@ -5,10 +5,9 @@ def second_challenge
    vegetable: ["carrots", "broccoli", "cucumbers"],
    meat: ["chicken", "steak", "salmon"],
    grains: ["rice", "pasta"]
-     binding.pry
   }
   groceries.values
+  binding.pry
   #code your solution here!
-
 
 end
