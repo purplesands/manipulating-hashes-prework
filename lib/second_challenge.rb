@@ -6,7 +6,7 @@ def second_challenge
    meat: ["chicken", "steak", "salmon"],
    grains: ["rice", "pasta"]
   }
-  groceries.values
+  dairy.values
   binding.pry
   #code your solution here!
 
